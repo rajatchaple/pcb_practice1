@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: switching_noise_board.PcbDoc   2/9/2022  11:02:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : switching_noise_board-RoundHoles.TXT
+ASCII SlotHoles File : switching_noise_board-SlotHoles.TXT
+EIA File   : switching_noise_board.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             15        PTH        7.60inch (193.03mm)
+T2      13mil (0.33mm)                                            Round             2         PTH        0.07inch (1.66mm)
+T3      39mil (1mm)                                               Slot              1         PTH        0.06inch (1.50mm)
+T4      40mil (1.016mm)                                           Round             36        PTH        8.32inch (211.42mm)
+T5      40mil (1.02mm)                                            Round             6         PTH        5.24inch (133.07mm)
+T6      47mil (1.2mm)                                             Slot              2         PTH        0.62inch (15.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00
